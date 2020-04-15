@@ -1,0 +1,31 @@
+
+.profile__button {
+    width: 150px;
+    height: 50px;
+    margin-left: 241px;
+    margin-top: 35px;
+    cursor: pointer;
+    box-sizing: border-box;
+    padding: 0;
+    display: block;
+    background-color: inherit;
+    background: url('plus.svg') center no-repeat;
+    border: 2px solid #FFFFFF;
+    border-radius: 2px;
+}
+
+
+.profile__button:hover {
+    border: 2px solid rgba(255, 255, 255, 0.6);
+    background: url('plus-hover.svg') center no-repeat;
+}
+
+@media screen and (max-width: 898px) {
+    .profile__button {
+        margin: auto;
+        margin-top: 35px;
+        width: 282px;
+        
+    }
+}
+

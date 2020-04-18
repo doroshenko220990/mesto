@@ -37,5 +37,5 @@ closePopup()
 } 
 popupSubmit.addEventListener('submit', formSubmitHandler); 
 popupClose.addEventListener('click', closePopup); 
-popupSubmit.addEventListener('click', formSubmitHandler); // Без этого слушателя перестают сохранятся значения введенные в инпут, в чем может быть ошибка???
+popupSubmit.addEventListener('click', formSubmitHandler); // Без этого слушателя перестают сохранятся значения введенные в инпут, в чем может быть ошибка?
 popupToggle.addEventListener('click', openPopup); 

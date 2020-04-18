@@ -1,6 +1,6 @@
 
 .element__like {
-  background: url(like.jpg) center no-repeat;
+  background: url('like.svg') center no-repeat;
   height: 18.13px;
   width: 20.76px;
   background-size: 100%;
@@ -12,7 +12,3 @@
   transition: 0.3s;
 }
 
-.element__like:hover {
-    transform: scale(1.3);
-  }
-  

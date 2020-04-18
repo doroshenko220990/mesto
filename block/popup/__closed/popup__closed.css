@@ -13,7 +13,7 @@
 
 
 .popup__closed:hover {
-    background: url('close-icon-hover.svg') center no-repeat;
+    opacity: 0.6;
 }
 
 

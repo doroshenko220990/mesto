@@ -16,16 +16,14 @@
 
 
 .profile__button:hover {
-    border: 2px solid rgba(255, 255, 255, 0.6);
-    background: url('plus-hover.svg') center no-repeat;
+    opacity: 0.6;
 }
 
 @media screen and (max-width: 898px) {
     .profile__button {
         margin: auto;
         margin-top: 35px;
-        width: 282px;
-        
+        width: 282px;    
     }
 }
 

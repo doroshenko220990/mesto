@@ -8,6 +8,7 @@
     flex-direction: column;
     justify-content: space-between;
     border-bottom: 1px solid #545454;
+    width: 100%;
 }
 
 
@@ -19,6 +20,6 @@
 
 @media screen and (max-width: 600px) {
     .header {
-        max-width: 282px;
+        max-width: 320px;
     }
 }

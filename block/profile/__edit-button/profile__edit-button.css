@@ -12,8 +12,7 @@
 }
 
 .profile__edit-button:hover {
-    border: 2px solid rgba(255, 255, 255, 0.6);
-    background: url('edit-btn-hover.svg') center no-repeat;
+    opacity: 0.6;
 }
 
 @media screen and (max-width: 600px) {

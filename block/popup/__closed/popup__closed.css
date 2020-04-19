@@ -7,7 +7,7 @@
     top: -35px;
     border: none;
     background-color: inherit;
-    background: url('close-icon.svg') center no-repeat;
+    background: url('../../../images/close-icon.svg') center no-repeat;
     cursor: pointer;
 }
 

@@ -9,7 +9,7 @@
     padding: 0;
     display: block;
     background-color: inherit;
-    background: url('plus.svg') center no-repeat;
+    background: url('../../../images/plus.svg') center no-repeat;
     border: 2px solid #FFFFFF;
     border-radius: 2px;
 }

@@ -6,7 +6,7 @@
     align-self: center;
     margin-left: 17px;
     background-color: inherit;
-    background: url('edit-btn.svg') center no-repeat;
+    background: url('../../../images/edit-btn.svg') center no-repeat;
     border: 2px solid #FFFFFF;
     cursor: pointer;
 }
